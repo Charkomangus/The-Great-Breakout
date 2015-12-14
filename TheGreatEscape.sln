@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGreatEscape", "TheGreatEscape\TheGreatEscape\TheGreatEscape.csproj", "{2EB88B91-7CBE-43D8-83E0-566FA47D8FE9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TheGreatEscapeContent", "TheGreatEscape\TheGreatEscapeContent\TheGreatEscapeContent.contentproj", "{A3D2746E-82A2-4D40-8F42-EFFE54298FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB88B91-7CBE-43D8-83E0-566FA47D8FE9}.Debug|x86.ActiveCfg = Debug|x86
+		{2EB88B91-7CBE-43D8-83E0-566FA47D8FE9}.Debug|x86.Build.0 = Debug|x86
+		{2EB88B91-7CBE-43D8-83E0-566FA47D8FE9}.Release|x86.ActiveCfg = Release|x86
+		{2EB88B91-7CBE-43D8-83E0-566FA47D8FE9}.Release|x86.Build.0 = Release|x86
+		{A3D2746E-82A2-4D40-8F42-EFFE54298FBC}.Debug|x86.ActiveCfg = Debug|x86
+		{A3D2746E-82A2-4D40-8F42-EFFE54298FBC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

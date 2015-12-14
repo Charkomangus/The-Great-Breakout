@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TheGreatEscape.Game1">
+    <Position X="30" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="TheGreatEscape.Game1.GameState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameCode\Game1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>DRYQgUokBmAQBwTkBRALCgwVAwAAQhgIBAEQAFABIAQ=</HashCode>
+      <FileName>GameCode\GBMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.Bar">
+    <Position X="16" Y="9" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQQAAgAAAAEAEAAAAAAACAAAAEACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.Program">
+    <Position X="28.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.StaticGraphic">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GraphicType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.MotionGraphic">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GraphicType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.Ball">
+    <Position X="20.5" Y="9" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAABAAAg4AgIgADAAAAEAAAgAAAAACAAAAAgA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.Brick">
+    <Position X="18.25" Y="9" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IYYAACAAACgAAoQCgiCAABAAAABAAAQAAAAAAAAACAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.Screen">
+    <Position X="25.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.Background">
+    <Position X="23.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.Menu">
+    <Position X="25.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAgAAAAAAAAgAAAAAAAAIAAAAAAAEAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.End">
+    <Position X="27.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Circle">
+    <Position X="20.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GraphicType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.GameCode.UtilityFunctions">
+    <Position X="28.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQBBAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\UtilityFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.Claustrophobia">
+    <Position X="12.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.Noise">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAACAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Square">
+    <Position X="17.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAggAAAAAAAAAgAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>GameCode\GraphicType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.Win">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.BrickNormal">
+    <Position X="15" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.GlassBrick">
+    <Position X="17.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.MetalBrick">
+    <Position X="19.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheGreatEscape.PowerBrick">
+    <Position X="21.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameCode\GameObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
