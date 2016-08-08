@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\ball.png</Source>
+      <Name>Textures\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\ball.xnb</Output>
+      <Time>2015-11-02T12:00:07.9684179+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\end.jpg</Source>
+      <Name>Textures\end</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\end.xnb</Output>
+      <Time>2015-11-18T11:47:29.825761+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\circle.png</Source>
+      <Name>Textures\circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\circle.xnb</Output>
+      <Time>2015-12-03T20:12:39.1241467+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bb_min.png</Source>
+      <Name>Textures\bb_min</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\bb_min.xnb</Output>
+      <Time>2015-12-03T21:41:17.0679753+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bb_max.png</Source>
+      <Name>Textures\bb_max</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\bb_max.xnb</Output>
+      <Time>2015-12-03T21:39:45.2729612+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\barred.png</Source>
+      <Name>Textures\barred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\barred.xnb</Output>
+      <Time>2015-12-12T21:38:07.5722952+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\noise.png</Source>
+      <Name>Textures\noise</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\noise.xnb</Output>
+      <Time>2015-12-12T13:13:46.0907788+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tutorial.png</Source>
+      <Name>Textures\tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\tutorial.xnb</Output>
+      <Time>2015-12-12T14:29:55.4000575+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\win.png</Source>
+      <Name>Textures\win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\win.xnb</Output>
+      <Time>2015-12-12T14:48:19.4864627+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\brick.png</Source>
+      <Name>Textures\brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\brick.xnb</Output>
+      <Time>2015-12-12T17:12:41.2766504+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\cementBrick.png</Source>
+      <Name>Textures\cementBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\cementBrick.xnb</Output>
+      <Time>2015-12-12T17:12:41.2922758+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\glassbrick.png</Source>
+      <Name>Textures\glassbrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\glassbrick.xnb</Output>
+      <Time>2015-12-12T17:12:41.2922758+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\powerbrick.png</Source>
+      <Name>Textures\powerbrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\powerbrick.xnb</Output>
+      <Time>2015-12-12T17:57:30.7614939+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bar.png</Source>
+      <Name>Textures\bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\bar.xnb</Output>
+      <Time>2015-12-12T23:40:37.2396641+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\game.png</Source>
+      <Name>Textures\game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\game.xnb</Output>
+      <Time>2015-12-13T12:39:11.5365037+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\menu.png</Source>
+      <Name>Textures\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Textures\menu.xnb</Output>
+      <Time>2015-12-13T19:42:12.3756771+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\debugFont.spritefont</Source>
+      <Name>Fonts\debugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Fonts\debugFont.xnb</Output>
+      <Time>2015-11-18T11:54:56.6704114+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\uiFont.spritefont</Source>
+      <Name>Fonts\uiFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Fonts\uiFont.xnb</Output>
+      <Time>2015-12-10T14:10:08.707943+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\plan.mp3</Source>
+      <Name>Sound\plan</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\plan.xnb</Output>
+      <Extra>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\plan.wma</Extra>
+      <Time>2015-12-10T13:42:41.7242594+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\menu.mp3</Source>
+      <Name>Sound\menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\menu.xnb</Output>
+      <Extra>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\menu.wma</Extra>
+      <Time>2015-12-12T18:00:05.5010947+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\win.mp3</Source>
+      <Name>Sound\win</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\win.xnb</Output>
+      <Extra>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\win.wma</Extra>
+      <Time>2015-12-12T21:10:04.3439822+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level1.mp3</Source>
+      <Name>Sound\Level1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\Level1.xnb</Output>
+      <Extra>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\Level1.wma</Extra>
+      <Time>2015-12-12T21:46:37.1450254+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\loss.mp3</Source>
+      <Name>Sound\loss</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\loss.xnb</Output>
+      <Extra>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\loss.wma</Extra>
+      <Time>2015-12-12T22:01:41.4659986+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\hit.wav</Source>
+      <Name>Sound\hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\hit.xnb</Output>
+      <Time>2015-12-10T13:56:06.5102288+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\brick.wav</Source>
+      <Name>Sound\brick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\brick.xnb</Output>
+      <Time>2015-12-10T13:58:13.973817+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\glass.wav</Source>
+      <Name>Sound\glass</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\glass.xnb</Output>
+      <Time>2015-12-12T17:16:58.7840678+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\metal.wav</Source>
+      <Name>Sound\metal</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\metal.xnb</Output>
+      <Time>2015-12-12T17:21:26.9134481+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\power.wav</Source>
+      <Name>Sound\power</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\power.xnb</Output>
+      <Time>2015-12-12T17:59:59.9275052+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\fail.wav</Source>
+      <Name>Sound\fail</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\Sound\fail.xnb</Output>
+      <Time>2015-12-12T18:44:29.3623109+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A3D2746E-82A2-4D40-8F42-EFFE54298FBC}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscapeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\CharK\Desktop\THE GREAT BREAKOUT\TheGreatEscape(Code)\TheGreatEscape\TheGreatEscape\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-01T16:17:56.6312744+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
