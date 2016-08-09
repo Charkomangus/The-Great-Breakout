@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\ball.xnb</Output>
-      <Time>2016-08-08T16:38:33.2164711+01:00</Time>
+      <Time>2016-04-24T11:53:35.4789468+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\end.jpg</Source>
@@ -17,7 +17,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\end.xnb</Output>
-      <Time>2016-08-08T16:38:33.2246583+01:00</Time>
+      <Time>2016-04-24T11:53:35.4814926+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\circle.png</Source>
@@ -26,7 +26,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\circle.xnb</Output>
-      <Time>2016-08-08T16:38:33.2211575+01:00</Time>
+      <Time>2016-04-24T11:53:35.4809926+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\bb_min.png</Source>
@@ -35,7 +35,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\bb_min.xnb</Output>
-      <Time>2016-08-08T16:38:33.2189603+01:00</Time>
+      <Time>2016-04-24T11:53:35.4800032+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\bb_max.png</Source>
@@ -44,7 +44,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\bb_max.xnb</Output>
-      <Time>2016-08-08T16:38:33.2184586+01:00</Time>
+      <Time>2016-04-24T11:53:35.4800032+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\barred.png</Source>
@@ -53,7 +53,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\barred.xnb</Output>
-      <Time>2016-08-08T16:38:33.2174577+01:00</Time>
+      <Time>2016-04-24T11:53:35.47946+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\noise.png</Source>
@@ -62,7 +62,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\noise.xnb</Output>
-      <Time>2016-08-08T16:38:33.2303599+01:00</Time>
+      <Time>2016-04-24T11:53:35.4859955+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\tutorial.png</Source>
@@ -71,7 +71,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\tutorial.xnb</Output>
-      <Time>2016-08-08T16:38:33.2348801+01:00</Time>
+      <Time>2016-04-24T11:53:35.4889978+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\win.png</Source>
@@ -80,7 +80,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\win.xnb</Output>
-      <Time>2016-08-08T16:38:33.2353809+01:00</Time>
+      <Time>2016-04-24T11:53:35.4894987+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\brick.png</Source>
@@ -89,7 +89,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\brick.xnb</Output>
-      <Time>2016-08-08T16:38:33.2194735+01:00</Time>
+      <Time>2016-04-24T11:53:35.4804773+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\cementBrick.png</Source>
@@ -98,7 +98,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\cementBrick.xnb</Output>
-      <Time>2016-08-08T16:38:33.2201525+01:00</Time>
+      <Time>2016-04-24T11:53:35.4804773+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\glassbrick.png</Source>
@@ -107,7 +107,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\glassbrick.xnb</Output>
-      <Time>2016-08-08T16:38:33.2276729+01:00</Time>
+      <Time>2016-04-24T11:53:35.4839945+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\powerbrick.png</Source>
@@ -116,7 +116,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\powerbrick.xnb</Output>
-      <Time>2016-08-08T16:38:33.23086+01:00</Time>
+      <Time>2016-04-24T11:53:35.4859955+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\bar.png</Source>
@@ -125,7 +125,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\bar.xnb</Output>
-      <Time>2016-08-08T16:38:33.2169741+01:00</Time>
+      <Time>2016-04-24T11:53:35.4789468+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\game.png</Source>
@@ -134,7 +134,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\game.xnb</Output>
-      <Time>2016-08-08T16:38:33.2271606+01:00</Time>
+      <Time>2016-04-24T11:53:35.4839945+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\menu.png</Source>
@@ -143,7 +143,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Textures\menu.xnb</Output>
-      <Time>2016-08-08T16:38:33.2298595+01:00</Time>
+      <Time>2016-04-24T11:53:35.4854839+01:00</Time>
     </Item>
     <Item>
       <Source>Fonts\debugFont.spritefont</Source>
@@ -152,7 +152,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Fonts\debugFont.xnb</Output>
-      <Time>2016-08-08T16:38:33.0825402+01:00</Time>
+      <Time>2016-04-24T11:53:35.3786417+01:00</Time>
     </Item>
     <Item>
       <Source>Fonts\uiFont.spritefont</Source>
@@ -161,7 +161,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Fonts\uiFont.xnb</Output>
-      <Time>2016-08-08T16:38:33.086543+01:00</Time>
+      <Time>2016-04-24T11:53:35.3791418+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\plan.mp3</Source>
@@ -171,7 +171,7 @@
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\plan.xnb</Output>
       <Extra>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\plan.wma</Extra>
-      <Time>2016-08-08T16:38:33.2044659+01:00</Time>
+      <Time>2016-04-24T11:53:35.4724421+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\menu.mp3</Source>
@@ -181,7 +181,7 @@
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\menu.xnb</Output>
       <Extra>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\menu.wma</Extra>
-      <Time>2016-08-08T16:38:33.1679158+01:00</Time>
+      <Time>2016-04-24T11:53:35.4411983+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\win.mp3</Source>
@@ -191,7 +191,7 @@
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\win.xnb</Output>
       <Extra>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\win.wma</Extra>
-      <Time>2016-08-08T16:38:33.2149571+01:00</Time>
+      <Time>2016-04-24T11:53:35.4784464+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\Level1.mp3</Source>
@@ -201,7 +201,7 @@
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\Level1.xnb</Output>
       <Extra>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\Level1.wma</Extra>
-      <Time>2016-08-08T16:38:33.1330756+01:00</Time>
+      <Time>2016-04-24T11:53:35.4221116+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\loss.mp3</Source>
@@ -211,7 +211,7 @@
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\loss.xnb</Output>
       <Extra>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\loss.wma</Extra>
-      <Time>2016-08-08T16:38:33.1594089+01:00</Time>
+      <Time>2016-04-24T11:53:35.4362106+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\hit.wav</Source>
@@ -220,7 +220,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\hit.xnb</Output>
-      <Time>2016-08-08T16:38:33.1495874+01:00</Time>
+      <Time>2016-04-24T11:53:35.4282054+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\brick.wav</Source>
@@ -229,7 +229,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\brick.xnb</Output>
-      <Time>2016-08-08T16:38:33.1370784+01:00</Time>
+      <Time>2016-04-24T11:53:35.423613+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\glass.wav</Source>
@@ -238,7 +238,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\glass.xnb</Output>
-      <Time>2016-08-08T16:38:33.146585+01:00</Time>
+      <Time>2016-04-24T11:53:35.4277028+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\metal.wav</Source>
@@ -247,7 +247,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\metal.xnb</Output>
-      <Time>2016-08-08T16:38:33.1714391+01:00</Time>
+      <Time>2016-04-24T11:53:35.4424168+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\power.wav</Source>
@@ -256,7 +256,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\power.xnb</Output>
-      <Time>2016-08-08T16:38:33.2094697+01:00</Time>
+      <Time>2016-04-24T11:53:35.4749436+01:00</Time>
     </Item>
     <Item>
       <Source>Sound\fail.wav</Source>
@@ -265,7 +265,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>F:\Work\Games\The Great Breakout\TheGreatEscape\TheGreatEscape\bin\x86\Release\Content\Sound\fail.xnb</Output>
-      <Time>2016-08-08T16:38:33.1425822+01:00</Time>
+      <Time>2016-04-24T11:53:35.4266145+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
